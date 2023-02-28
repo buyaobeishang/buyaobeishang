@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/buyaobeishang/buyaobeishang/blob/main/image/nightlife.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -91,9 +91,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-<img src="https://github.com/buyaobeishang/buyaobeishang/blob/main/image/nightlife.gif" align="center" height="200" width="200" />
-</div>  
   
 
 <br/>  
