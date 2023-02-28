@@ -1,4 +1,3 @@
-<div align="right">
 
 <h2> Hey there! I'm buyaobeishang. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/buyaobeishang/buyaobeishang/blob/main/image/nightlife.gif" width="500"/>
