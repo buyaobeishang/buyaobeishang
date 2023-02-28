@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 <img src="https://github.com/buyaobeishang/buyaobeishang/blob/main/image/nightlife.gif" align="center" style="width: 100%" />
 </div>  
   
