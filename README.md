@@ -5,22 +5,18 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <!-- longkonglong -->
-<!-- 1.hangqinghaodeshihougao, hangqibuhaodeshihouyaokongcang -->
-<!-- 2.dangqianshichangzhiyouyigesanban,meitiandezhangtingdiertiandoumeiyouyijiadeshihou,shichangqingxuchuyubingdian,cishibuyaocaozuo -->
-
-<!-- zuidadewenti -->
-<!-- 1.guanbuzhushou,yinweiguanbuzhushoukuideqianshaoshuoyeyouyigeWle,dangtianyijingyoujiaodakuisuandeshihoubuyaozaicaozuo,dengdaizuijiajinchangshiji -->
-<!-- 2.buzhidaokongcang,yijingzhidaoshichangqixubuhaodeshihou,yaokongcangdengdai,cishicaozuokuiqiandegailvdayuzhuanqiandegailv,cishibuyaogao -->
-<!-- 3.buzhidaoweiraoshichangzhuxiangao,dangshichangyoujiaodacijixiaoxishi,yaoweirangcibankuaicaozuo,qianpaijinbuqukeyizhaolonger,longsan,longtouzonghuigeijinchangshiji, -->
-<!-- meiyouhuanshoudelongtou,bushizhenlongtou,ruguogaibankuaihoupaizhengqi,longtouhuanshoushijijiushijierudian -->
-<!-- 4.shichangmeiyoufangxiangdeshihou,buyaopingzhezijideganjuezou,ruguoshizairenbuzhu,yeyaoqingcangshicuo,qianwanbukemeiyouzhuxianqieqingxubuhaodeshihoumancangcaozuo,wulunzijindaxiao, -->
-<!-- cishideshichangkuiqianxiaoyingjuda -->
-<!-- 5.zaishichangqingxubuhao,meiyouzhuxianshi,meiyicifanchoudoushilichangjihui,qianwanqieji -->
-<!-- 6.jishizhisun,buyaogeju,bujiyuqizhijiege -->
-<!-- 7.yinglijiushitieyiyangdejilv,guanzhushou,zhegepiaokuisuncongxiayigepiaoxunzhaojihui -->
-<!-- 8.buyaohaipatakong,laizheshiweilezhuanqiande,mudishiyingli,shaozhuanjiciqianyounengzenmeyang,mudishijianshaobubiyaodekuisun -->
-<!-- 9.congjintianqi,youzhuxiandeshihouweiraozhuxiangao,meizhuxiandeshihoujiukongcang,dengdaishichangqingxuhaozhuan,zhongcangmenggan,xiangxinzijiyidingkeyi -->
-<!-- 10.meiyoufangxiangdeshihoujiuyuanditingliu,buyaoluancaozuo,luancaozuoshihuikuiqian -->
+<!-- 1.行情好的时候操作, 行情不好的时候空仓 -->
+<!-- 2.当前市场连板情绪差,每天的涨停第二天都没有溢价的时候,市场情绪处于冰点,此时不要操作 -->
+<!-- 最大的问题 -->
+<!-- 1.管不住手,因为管不住手亏损的钱少说也有一个W了,当天已经有较大亏损的时候不要在操作,等待最佳的入场时机,在操作只会产生更大的亏损 -->
+<!-- 2.不知道空仓,已经知道市场情绪不好的时候,要空仓等待,此时亏钱的概率大于赚钱的概率,不要操作 -->
+<!-- 3.不知道围绕主线搞,当市场有极大刺激消息时,要围绕此版块操作,前排进不去可以找龙二,龙三,龙头总会给进场时机,没有换手的龙头不是真龙头,如果该板块后排整齐,龙头换手时机就是进场机会 -->
+<!-- 4.市场没有方向的时候,不要凭借着自己的感觉走,如果实在管不住也要轻仓操作,千万不要市场情绪不好的时候满仓操作,无论资金大小,此时的市场亏钱效应巨大 -->
+<!-- 5.在市场情绪不好的时候,没有主线的时候,每一次反抽都是离场机会,千万切忌 -->
+<!-- 6.盈利就是铁一样的纪律,管住手,及时止损,不要格局,不及预期直接割肉,从这亏的钱可以从别的地方赚回来 -->
+<!-- 7.不要害怕踏空,来这是为了赚钱的,目的是盈利,少赚几次钱又能怎么样,目的是减少不必要的亏损,留资金吃大肉 -->
+<!-- 9.没有方向的时候就原地停留,不要乱操作,乱操作只会亏钱 -->
+<!-- 10.从今天起,有主线的时候围绕主线搞,没主线的时候就空仓,等待市场情绪好转,重仓猛干,相信自己一定可以 -->
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
