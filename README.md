@@ -4,6 +4,24 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+<!-- longkonglong -->
+<!-- 1.hangqinghaodeshihougao, hangqibuhaodeshihouyaokongcang -->
+<!-- 2.dangqianshichangzhiyouyigesanban,meitiandezhangtingdiertiandoumeiyouyijiadeshihou,shichangqingxuchuyubingdian,cishibuyaocaozuo -->
+
+<!-- zuidadewenti -->
+<!-- 1.guanbuzhushou,yinweiguanbuzhushoukuideqianshaoshuoyeyouyigeWle,dangtianyijingyoujiaodakuisuandeshihoubuyaozaicaozuo,dengdaizuijiajinchangshiji -->
+<!-- 2.buzhidaokongcang,yijingzhidaoshichangqixubuhaodeshihou,yaokongcangdengdai,cishicaozuokuiqiandegailvdayuzhuanqiandegailv,cishibuyaogao -->
+<!-- 3.buzhidaoweiraoshichangzhuxiangao,dangshichangyoujiaodacijixiaoxishi,yaoweirangcibankuaicaozuo,qianpaijinbuqukeyizhaolonger,longsan,longtouzonghuigeijinchangshiji, -->
+<!-- meiyouhuanshoudelongtou,bushizhenlongtou,ruguogaibankuaihoupaizhengqi,longtouhuanshoushijijiushijierudian -->
+<!-- 4.shichangmeiyoufangxiangdeshihou,buyaopingzhezijideganjuezou,ruguoshizairenbuzhu,yeyaoqingcangshicuo,qianwanbukemeiyouzhuxianqieqingxubuhaodeshihoumancangcaozuo,wulunzijindaxiao, -->
+<!-- cishideshichangkuiqianxiaoyingjuda -->
+<!-- 5.zaishichangqingxubuhao,meiyouzhuxianshi,meiyicifanchoudoushilichangjihui,qianwanqieji -->
+<!-- 6.jishizhisun,buyaogeju,bujiyuqizhijiege -->
+<!-- 7.yinglijiushitieyiyangdejilv,guanzhushou,zhegepiaokuisuncongxiayigepiaoxunzhaojihui -->
+<!-- 8.buyaohaipatakong,laizheshiweilezhuanqiande,mudishiyingli,shaozhuanjiciqianyounengzenmeyang,mudishijianshaobubiyaodekuisun -->
+<!-- 9.congjintianqi,youzhuxiandeshihouweiraozhuxiangao,meizhuxiandeshihoujiukongcang,dengdaishichangqingxuhaozhuan,zhongcangmenggan,xiangxinzijiyidingkeyi -->
+<!-- 10.meiyoufangxiangdeshihoujiuyuanditingliu,buyaoluancaozuo,luancaozuoshihuikuiqian -->
+
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
