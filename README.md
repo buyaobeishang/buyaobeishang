@@ -18,7 +18,7 @@
 <!-- 9.没有方向的时候就原地停留,不要乱操作,乱操作只会亏钱 -->
 <!-- 10.从今天起,有主线的时候围绕主线搞,没主线的时候就空仓,等待市场情绪好转,重仓猛干,相信自己一定可以 -->
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Java Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
